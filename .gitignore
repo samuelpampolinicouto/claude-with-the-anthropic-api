@@ -1,0 +1,69 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+
+# uv-managed virtual environment and build artifacts
+.venv/
+
+# Build / distribution
+build/
+dist/
+*.egg-info/
+
+# Test / typecheck caches
+.pytest_cache/
+.mypy_cache/
+.cache/
+.coverage
+coverage.xml
+test-results.xml
+
+# Environment variables
+.env
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Downloads and temp files
+downloads/
+*.pdf
+*.docx
+*.xlsx
+
+# Playwright
+playwright-report/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Local virtual environment
+proc_venv/
+proc_gonogo_venv/
+eis_venv/
+
+# Temp storage and logs directory
+temp_storage/*/
+temp_storage/*.json
+logs/*.log
+data/*
+
+# Secret config
+# config.py
+
+
+# IMO notes
+IMO_notes/
+
+.claude/
