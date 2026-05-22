@@ -15,6 +15,11 @@ This project will be used for study Claude API
 
 All the code for these exercises will live in the `src` directory. You can create as many files as you like in there, and they will be automatically included in the project.
 
+Create your `.env` file on the src directory with the following content:
+
+```ANTHROPIC_API_KEY=your_api_key_here
+```
+
 # Run the project
 
 It is important to run at least once the command: `%pip install anthropic python-dotenv` to install the dependencies in the Jupyter Notebook environment.
