@@ -25,6 +25,8 @@ test-results.xml
 
 # Environment variables
 .env
+./mcp_examples/cli_project/.env
+./mcp_examples/cli_project_COMPLETE/.env
 
 # IDE
 .idea/
