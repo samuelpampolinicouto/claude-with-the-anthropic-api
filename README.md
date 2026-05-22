@@ -16,9 +16,7 @@ This project will be used for study Claude API
 All the code for these exercises will live in the `src` directory. You can create as many files as you like in there, and they will be automatically included in the project.
 
 Create your `.env` file on the src directory with the following content:
-
-```ANTHROPIC_API_KEY=your_api_key_here
-```
+Uses the `.env.example` from the root folder as a template.
 
 # Run the project
 
