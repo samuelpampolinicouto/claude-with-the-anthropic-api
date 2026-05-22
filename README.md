@@ -18,6 +18,7 @@ All the code for these exercises will live in the `src` directory. You can creat
 # Run the project
 
 It is important to run at least once the command: `%pip install anthropic python-dotenv` to install the dependencies in the Jupyter Notebook environment.
+This command is present on this first Notebook: `src/01-setup.ipynb`
 
 ## Executing Jupyter Notebook
 To run the project, you can use the following command:
